@@ -18,38 +18,37 @@ flag down an instructor right away.
 
 1.  In `style.css` write CSS in their appropriate spots to turn your HTML into life using your knowledge of CSS animations. Most of the styling is provided for you already, you'll just have to animation code to it.
 
-You will *not* be modifying neither the HTML in the html files nor  `main.css`.
+2. You will *not* be modifying neither the HTML in the html files nor  `main.css`.
 
-After completing each spec, make a commit with the message being the spec itself.
+3. After completing each spec, make a commit with the message being the spec itself.
 
-##### Specifications:
-  - Funky Squares: Over 3 second intervals, all funky squares will automatically rotate 180 degrees, for an infinite amount of time.
-  - Sonic: Hovering your mouse over Sonic makes Sonic move across the screen over 2 seconds with a slow start.
-  - Zen: The window will automatically changes colors over a 30 second time period. Every 10% of the time, the color will change with a slow start and end. You can choose any colors you'd like.
-  - Flexbox: Create a 3x3 grid using `flexbox` that is centered in the page.
+#### Specifications:
+  1. Funky Squares: Over 3 second intervals, all funky squares will automatically rotate 180 degrees, for an infinite amount of time.
+  2. Sonic: Hovering your mouse over Sonic makes Sonic move across the screen over 2 seconds with a slow start.
+  3. Zen: The window will automatically changes colors over a 30 second time period. Every 10% of the time, the color will change with a slow start and end. You can choose any colors you'd like.
+  4. Flexbox: Create a 3x3 grid using `flexbox` that is centered in the page.
 
 
-#### Reference
+#### Helpful W3Schools Resources
 Check out these guides on W3 Schools:
- - [list of CSS transition-timing-functions](http://www.w3schools.com/cssref/css3_pr_transition-timing-function.asp)
+- [list of CSS transition-timing-functions](http://www.w3schools.com/cssref/css3_pr_transition-timing-function.asp)
 - [Transition Property Example](http://www.w3schools.com/cssref/css3_pr_transition.asp)
 - [Transform Property](http://www.w3schools.com/cssref/css3_pr_transform.asp)
 - [Animation Keyframes](http://www.w3schools.com/cssref/css3_pr_animation-keyframes.asp)
-
-
 
 #### Reach Goals - CSS FUNimations!
 
 - Using only CSS:
   - Funky squares shrink to half their size on hover
   - Hovering over a Dog in Vest image turns that image upside down
+  - Sonic rotates 360 degrees as he zooms across the page
 
 - Using jQuery:
-  - `<h1>` tags will fade out into nothing over 3 seconds upon hover
+  - `<h1>` tags will fade out into nothing over 3 seconds when clicked
   - Clicking on a funky square turns it into a triangle
 
 
-#### Recommended Reading:
+#### Looking ahead - Recommended Reading:
 We've talked about responsive design a couple of times and we'll have a deeper look tomorrow. Spend a few minutes to preview responsive-design concepts:
 
 - [The "history" of responsive web-design](http://alistapart.com/article/responsive-web-design)
